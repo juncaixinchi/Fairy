@@ -1,0 +1,15 @@
+/node_modules
+/build
+/npm-debug.log
+/package-lock.json
+/.expo
+
+*.swp
+public/*.js
+public/*.json
+
+/public/*.hot-update.js
+/public/*.hot-update.json
+/public/bundle.js
+
+
